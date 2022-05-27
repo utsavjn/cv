@@ -4,11 +4,46 @@ body {
     max-width: 960px;
     margin: auto;
 }
+.fa {
+    padding: 6px;
+    font-size: 10px;
+    width: 13px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  .fa-linkedin {
+      background: #0a66c2;
+      color: white;
+  }
+  .fa-github {
+      background: #000000;
+      color: white;
+  }
+  .fa-envelope {
+      background: #312167;
+      color: white;
+
+  }
+  .fa-steam{
+      background: #bdbdbd;
+      color: black;
+
+  }
+  .fa-twitter{
+      background: #55ACEE;
+      color: white;
+  }
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
     padding-top: 1em;
-    padding-bottom: 1em;
+    padding-bottom: 0em;
 }
 
 h2 {
