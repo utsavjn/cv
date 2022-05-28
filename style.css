@@ -85,4 +85,7 @@ h1, h2 {
 #mainLeft {
     border-right: 1px solid lightgray;
 }
+a{
+    color: black;
+}
 
