@@ -81,6 +81,7 @@ hr {
 h1, h2 {
     font-weight: 100;
     margin-bottom: 0;
+    text-align: center;
 }
 #mainLeft {
     border-right: 1px solid lightgray;
