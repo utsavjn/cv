@@ -98,7 +98,7 @@ a {
     color: black;
 }
 ul {
-    list-style-position: outside;
+    list-style-position: inside;
     display: inline;
 }
 
