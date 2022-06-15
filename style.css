@@ -97,4 +97,8 @@ h1, h2 {
 a {
     color: black;
 }
+ul {
+    list-style-position: inside;
+    display: inline
+}
 
